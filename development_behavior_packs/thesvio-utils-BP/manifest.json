@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "thesvio utiilities",
+    "description": "thesvio utilities addon",
+    "uuid": "e1cfcccb-2dd4-4d79-9651-2be6794ddad1",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "56554c72-f15e-4238-a131-47af77e3e395",
+      "version": [1, 0, 1]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "7ebf21e3-dda2-43a2-aeb7-c1a4a6bbbc68",
+      "version": [1, 0, 1]
+    }
+  ],
+  "metadata": {
+    "authors": ["thesvio"],
+    "generated_with": {
+      "blockception-minecraft-bedrock": ["8.0.42"]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+tile.thesvio:die.name=Bloco foda
+item.spawn_egg.entity.thesvio:cow.name= Ovo de Vaca do Capeta
+entity.thesvio:cow.name=Vaca do Capeta
+action.hint.exit.thesvio:cow=Te vira pra aprender a sair dessa vaca.
